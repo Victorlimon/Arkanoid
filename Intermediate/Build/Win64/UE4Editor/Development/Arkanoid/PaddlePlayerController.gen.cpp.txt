@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Usuario\Desktop\Arkanoid\Source\Arkanoid/PaddlePlayerController.h
+C:\Users\Usuario\Desktop\Arkanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arkanoid\PaddlePlayerController.generated.h
